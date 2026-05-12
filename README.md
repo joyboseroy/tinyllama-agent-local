@@ -162,6 +162,7 @@ This is a **minimal working system**, not a production agent framework.
 * Improve tool selection via structured outputs
 * Replace TinyLlama with larger local models
 * Add domain-specific tools (e.g., telecom queries)
+* Add telecom-specific tools (network query, ticket lookup, RAG over 3GPP docs)
 
 ---
 
@@ -179,8 +180,10 @@ More importantly:
 
 ---
 
-## 👤 Author
+## Author
 
-Joy Bose
-Senior Data Scientist
-PhD (Spiking Neural Networks)
+**Dr. Joy Bose** — Senior Data Scientist and AI Architect, Ericsson Global
+
+[LinkedIn](https://linkedin.com/in/joyboseroy) ·
+[Google Scholar](https://scholar.google.com/citations?user=1E0YgA4AAAAJ) ·
+[Personal site](https://joyboseroy.github.io)
